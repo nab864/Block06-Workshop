@@ -21,6 +21,10 @@ div {
   padding-left: 10px;
   padding-bottom: 10px;
 }
+
+div:hover {
+  background-color: aqua;
+}
 div > h2 {
   font-family: Courier New;
 }
